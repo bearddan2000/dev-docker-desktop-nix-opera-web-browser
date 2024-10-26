@@ -1,7 +1,7 @@
-# docker-desktop-nix-helix-text-editor
+# dev-docker-desktop-nix-opera-web-browser
 
 ## Description
-A POC for nix package manager loading helix text editor.
+A POC for nix package manager loading opera web browser.
 
 This is a barebones installation no pluggins where added.
 
@@ -11,7 +11,7 @@ ie. without a volume docker run --rm ... with a volume docker run --rm -v $(pwd)
 
 ## Tech stack
 - nix
-- helix
+- opera
 
 ## Docker stack
 - ubuntu:22.04
